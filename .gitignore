@@ -1,0 +1,7 @@
+.next
+.gitig
+gitignore
+.nvmrc
+node_modules/
+package-lock.json
+package.json
